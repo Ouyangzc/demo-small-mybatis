@@ -11,6 +11,8 @@
     <modules>
         <module>chapter00-mybatis-test</module>
         <module>chapter01-simple-mapper_factory</module>
+        <module>chapter02-mapper-register</module>
+        <module>chapter03-parse</module>
     </modules>
 
     <dependencyManagement>
